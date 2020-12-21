@@ -1,4 +1,4 @@
-# build-radium
+# build-radium for own reference
 
 export RADIUM_QT_VERSION=5 
 
@@ -44,6 +44,11 @@ Dependencies on Debian:
 
 `
 sudo apt install python2-dev libasound2-dev libjack-jackd2-dev libresample1-dev liblrdf0-dev libsndfile1-dev ladspa-sdk libglib2.0-dev calf-plugins binutils-dev libc6-dev tk8.6-dev libogg-dev libvorbis-dev libspeex-dev fftw-dev fftw3-dev guile-2.2-dev libxkbfile-dev x11-utils cmake libfreetype6-dev libxinerama-dev libxcursor-dev libxrandr-dev llvm-dev libboost-all-dev libssl-dev libncurses-dev libxcb-keysyms1-dev libqwt-qt5-dev libqt5webkit5-dev libqt5x11extras5-dev qttools5-dev-tools qtbase5-private-dev libgmp-dev libgmp3-dev libmpfr-dev libmpc-dev`
+
+
+VST:
+
+https://github.com/kmatheussen/radium/issues/1249#issuecomment-621620610
 
 
 
